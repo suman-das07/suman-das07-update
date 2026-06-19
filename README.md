@@ -120,11 +120,11 @@ Vercel | Render | Linux
 
 * 💼 LinkedIn: [www.linkedin.com/in/shreyash-patange](http://www.linkedin.com/in/shreyash-patange)
 * 🐙 GitHub: github.com/ShreyashPatange
-* 📧 Email: Open for opportunities and collaborations
+* 📧 Email: shreyashpatange@gmail.com
 
 ## 💭 Open To
 
-* AI Engineer Internships
+* AI Engineer 
 * Backend Developer Roles
 * Full Stack Development Projects
 * Open Source Contributions
