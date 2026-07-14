@@ -91,10 +91,10 @@
 <text x="30" y="522.0" class="art artline" xml:space="preserve" textLength="335.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.93s">    :  .----=+%-+@*-+===+=***********++*****+++***++****************+*#@# .:::--:::. -</text>
 <text x="30" y="528.7" class="art artline" xml:space="preserve" textLength="331.5" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.94s">       :---==#*-*@=-*=-=**********+++*******++++*****************+++*#%%. :::---::: :</text>
 <text x="30" y="535.4" class="art artline" xml:space="preserve" textLength="327.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.95s">       :---=+*=-**--*+--**+*******************++***************++=+*##@+ .:::---::..</text>
-<text x="448" y="92.0" class="hdr row" style="animation-delay:0.35s">shreyash@intangles</text>
+<text x="448" y="92.0" class="hdr row" style="animation-delay:0.35s">shreyash patange</text>
 <line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
 <text x="448" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
-<text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Backend Developer @ Intangles Lab, Pune</text>
+<text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Backend Developer Intern @ Intangles Lab, Pune</text>
 <text x="448" y="135.0" class="key row" style="animation-delay:0.56s">Edu</text>
 <text x="540" y="135.0" class="val row" style="animation-delay:0.56s">B.E. E&amp;TC, PICT Pune  ·  Class of 2026</text>
 <text x="448" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
@@ -132,5 +132,5 @@
 <text x="448" y="525.0" class="key row" style="animation-delay:1.96s">Mail</text>
 <text x="540" y="525.0" class="acc row" style="animation-delay:1.96s">shreyashpatange@gmail.com</text>
 <text x="30" y="596" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to AI Engineer / Backend SDE roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 14 Jul 2026, 09:26 IST</text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 14 Jul 2026, 09:40 IST</text>
 </svg>
