@@ -86,7 +86,7 @@ THEMES = {
 }
 
 W, H = 1180, 820
-ART_X, ART_Y = 30, 160
+ART_X, ART_Y = 30, 200
 ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
 ART_LH = ART_CW * 1.72
 INFO_X, INFO_Y, INFO_LH = 448, 92, 20.5
