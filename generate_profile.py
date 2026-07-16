@@ -52,7 +52,7 @@ INFO = [
     ("StockFlow", "Inventory management system · Real-time stock tracking · CRUD workflows", "warn"),
     ("HackLatency", "Cybersecurity platform · Threat analysis · Security-focused web application", "warn"),
     ("Flutter Chat", "Real-time messaging app · Flutter · Firebase integration", "warn"),
-    ("Duo Studio Clone", "Creative frontend recreation · Advanced animations · Interactive UI", "warn"),
+    # ("Duo Studio Clone", "Creative frontend recreation · Advanced animations · Interactive UI", "warn"),
     ("SAMS", "Student management system · Database driven application", "warn"),
     ("PromptVault", "Developer productivity tool · AI prompt organization system", "warn"),
     ("__blank__", "", ""),
@@ -90,7 +90,7 @@ ART_X, ART_Y = 30, 86
 ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
 ART_LH = ART_CW * 1.72
 INFO_X, INFO_Y, INFO_LH = 448, 92, 17.5
-VAL_X = INFO_X + 92
+VAL_X = INFO_X + 150
 
 
 # ----------------------------------------------------------------------------
