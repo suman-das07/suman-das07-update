@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suman-das07/suman-das07-update/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suman-das07/suman-das07-update/main/light.svg">
-  <img alt="Shreyash Patange — Backend Developer & AI Engineer" src="https://raw.githubusercontent.com/suman-das07/suman-das07-update/main/dark.svg">
+  <img alt="Suman Das — Full Stack Developer & System Engineer" src="https://raw.githubusercontent.com/suman-das07/suman-das07-update/main/dark.svg">
 </picture>
 
 </div>
