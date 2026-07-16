@@ -85,7 +85,7 @@ THEMES = {
     },
 }
 
-W, H = 1040, 715
+W, H = 1180, 715
 ART_X, ART_Y = 30, 86
 ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
 ART_LH = ART_CW * 1.72
@@ -209,7 +209,7 @@ def render(theme_name, colors, stats, ist_now):
         elif label == "__rule__":
             parts.append(
                 f'<line x1="{INFO_X}" y1="{y-8:.1f}" x2="{W-40}" y2="{y-8:.1f}" '
-                f'stroke="{colors["border"]}" class="row" x2="{W-40}" {d}/>'
+                f'stroke="{colors["border"]}" class="row" {d}/>'
             )
             y += 8
         elif label == "__blank__":
