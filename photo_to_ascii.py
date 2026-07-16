@@ -72,8 +72,8 @@ def main():
             for x in range(COLS)
         )
         lines.append(line.rstrip())
-        
-    lines.extend([""] * 3)
+
+    lines.extend([""] * 5)
     Path(__file__).parent.joinpath("portrait.txt").write_text("\n".join(lines), encoding="utf-8")
     print("\n".join(lines))
     print(f"\nwrote portrait.txt  ({COLS} cols x {rows} rows)")
