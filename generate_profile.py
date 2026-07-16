@@ -255,7 +255,6 @@ def render(theme_name, colors, stats, ist_now):
     parts.append("</svg>")
     return "\n".join(parts)
 
-
 def main():
     stats = fetch_stats()
     ist = datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)
