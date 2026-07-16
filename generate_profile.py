@@ -89,7 +89,7 @@ W, H = 1180, 715
 ART_X, ART_Y = 30, 86
 ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
 ART_LH = ART_CW * 1.72
-INFO_X, INFO_Y, INFO_LH = 448, 92, 17.5
+INFO_X, INFO_Y, INFO_LH = 448, 92, 20.5
 VAL_X = INFO_X + 150
 
 
